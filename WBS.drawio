@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-21T20:05:31.393Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="RYcqgAYbg9DeSCumVryQ" version="24.0.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-21T20:06:16.225Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="aXL6D1EH3hzeJfvSfX4s" version="24.0.5" type="github">
   <diagram name="Page-1" id="64c3da0e-402f-94eb-ee01-a36477274f13">
     <mxGraphModel dx="1131" dy="2066" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
@@ -340,7 +340,7 @@
         <mxCell id="fw4PKMHl68gUZvkM_4rT-359" value="2.3 Group Membership Logs" style="whiteSpace=wrap;rounded=1;fillColor=#000033;strokeColor=#000033;shadow=1;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="410" y="309" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="fw4PKMHl68gUZvkM_4rT-360" value="Cloud-Hosted" style="whiteSpace=wrap;rounded=1;fillColor=#000033;strokeColor=#000033;shadow=1;fontColor=#FFFFFF;fontStyle=1;fontSize=14" vertex="1" parent="1">
+        <mxCell id="fw4PKMHl68gUZvkM_4rT-360" value="Cloud-Hosted&#xa;Microsoft Azure" style="whiteSpace=wrap;rounded=1;fillColor=#000033;strokeColor=#000033;shadow=1;fontColor=#FFFFFF;fontStyle=1;fontSize=14" vertex="1" parent="1">
           <mxGeometry x="250" y="-20" width="440" height="60" as="geometry" />
         </mxCell>
       </root>
