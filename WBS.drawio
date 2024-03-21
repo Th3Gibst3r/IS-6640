@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-21T20:06:16.225Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="aXL6D1EH3hzeJfvSfX4s" version="24.0.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-21T20:49:40.174Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="f_R2X559N61WLFvjxOzM" version="24.0.5" type="github">
   <diagram name="Page-1" id="64c3da0e-402f-94eb-ee01-a36477274f13">
     <mxGraphModel dx="1131" dy="2066" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
@@ -13,7 +13,7 @@
         <mxCell id="4" value="2.0 Database:&#xa;MySQL" style="whiteSpace=wrap;rounded=1;fillColor=#000033;strokeColor=#000033;shadow=1;fontColor=#FFFFFF;fontStyle=1;fontSize=14" parent="1" vertex="1">
           <mxGeometry x="400" y="52.9999999999998" width="140" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="10" value="1.1 Browse/Join/Leave Groups" style="whiteSpace=wrap;rounded=1;fillColor=#000033;strokeColor=#000033;shadow=1;fontColor=#FFFFFF;" parent="1" vertex="1">
+        <mxCell id="10" value="1.1 Browse/Join/Leave Groups&#xa;1 KLOC" style="whiteSpace=wrap;rounded=1;fillColor=#000033;strokeColor=#000033;shadow=1;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="140" y="146.0000000000001" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="103" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;rounded=0;fontColor=#000000;endArrow=none;endFill=0;strokeWidth=8;strokeColor=#000033;fillColor=#000033;" parent="1" source="3" target="10" edge="1">
@@ -127,7 +127,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="fw4PKMHl68gUZvkM_4rT-239" value="1.2 Search Engine" style="whiteSpace=wrap;rounded=1;fillColor=#000033;strokeColor=#000033;shadow=1;fontColor=#FFFFFF;" vertex="1" parent="1">
+        <mxCell id="fw4PKMHl68gUZvkM_4rT-239" value="1.2 Search Engine&#xa;1 KLOC" style="whiteSpace=wrap;rounded=1;fillColor=#000033;strokeColor=#000033;shadow=1;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="140" y="226.0000000000001" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fw4PKMHl68gUZvkM_4rT-240" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;rounded=0;fontColor=#000000;endArrow=none;endFill=0;strokeWidth=8;strokeColor=#000033;fillColor=#000033;" edge="1" parent="1" source="fw4PKMHl68gUZvkM_4rT-239">
@@ -139,7 +139,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="fw4PKMHl68gUZvkM_4rT-241" value="1.3 Creating a Group" style="whiteSpace=wrap;rounded=1;fillColor=#000033;strokeColor=#000033;shadow=1;fontColor=#FFFFFF;" vertex="1" parent="1">
+        <mxCell id="fw4PKMHl68gUZvkM_4rT-241" value="1.3 Creating a Group&#xa;1 KLOC" style="whiteSpace=wrap;rounded=1;fillColor=#000033;strokeColor=#000033;shadow=1;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="140" y="309.0000000000001" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fw4PKMHl68gUZvkM_4rT-242" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;rounded=0;fontColor=#000000;endArrow=none;endFill=0;strokeWidth=8;strokeColor=#000033;fillColor=#000033;" edge="1" parent="1" source="fw4PKMHl68gUZvkM_4rT-241">
@@ -151,7 +151,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="fw4PKMHl68gUZvkM_4rT-243" value="1.4 View/Update Group Details" style="whiteSpace=wrap;rounded=1;fillColor=#000033;strokeColor=#000033;shadow=1;fontColor=#FFFFFF;" vertex="1" parent="1">
+        <mxCell id="fw4PKMHl68gUZvkM_4rT-243" value="1.4 View/Update Group Details&#xa;1 KLOC" style="whiteSpace=wrap;rounded=1;fillColor=#000033;strokeColor=#000033;shadow=1;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="140" y="386.0000000000001" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fw4PKMHl68gUZvkM_4rT-244" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;rounded=0;fontColor=#000000;endArrow=none;endFill=0;strokeWidth=8;strokeColor=#000033;fillColor=#000033;" edge="1" parent="1" source="fw4PKMHl68gUZvkM_4rT-243">
@@ -163,7 +163,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="fw4PKMHl68gUZvkM_4rT-245" value="1.5  Managing Group Membership" style="whiteSpace=wrap;rounded=1;fillColor=#000033;strokeColor=#000033;shadow=1;fontColor=#FFFFFF;" vertex="1" parent="1">
+        <mxCell id="fw4PKMHl68gUZvkM_4rT-245" value="1.5  Managing Group Membership&#xa;1 KLOC" style="whiteSpace=wrap;rounded=1;fillColor=#000033;strokeColor=#000033;shadow=1;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="140" y="466.0000000000001" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fw4PKMHl68gUZvkM_4rT-246" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;rounded=0;fontColor=#000000;endArrow=none;endFill=0;strokeWidth=8;strokeColor=#000033;fillColor=#000033;" edge="1" parent="1" source="fw4PKMHl68gUZvkM_4rT-245">
@@ -175,7 +175,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="fw4PKMHl68gUZvkM_4rT-247" value="1.6 Subscribing to Event / Leaving Event" style="whiteSpace=wrap;rounded=1;fillColor=#000033;strokeColor=#000033;shadow=1;fontColor=#FFFFFF;" vertex="1" parent="1">
+        <mxCell id="fw4PKMHl68gUZvkM_4rT-247" value="1.6 Subscribing to Event / Leaving Event&#xa;1 KLOC" style="whiteSpace=wrap;rounded=1;fillColor=#000033;strokeColor=#000033;shadow=1;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="140" y="546.0000000000001" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fw4PKMHl68gUZvkM_4rT-249" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;rounded=0;fontColor=#000000;endArrow=none;endFill=0;strokeWidth=8;strokeColor=#000033;fillColor=#000033;" edge="1" parent="1">
@@ -187,7 +187,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="fw4PKMHl68gUZvkM_4rT-250" value="2.2 Challenges Databse" style="whiteSpace=wrap;rounded=1;fillColor=#000033;strokeColor=#000033;shadow=1;fontColor=#FFFFFF;" vertex="1" parent="1">
+        <mxCell id="fw4PKMHl68gUZvkM_4rT-250" value="2.2 Challenges Database&#xa;1 KLOC" style="whiteSpace=wrap;rounded=1;fillColor=#000033;strokeColor=#000033;shadow=1;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="410" y="226" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fw4PKMHl68gUZvkM_4rT-251" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;rounded=0;fontColor=#000000;endArrow=none;endFill=0;strokeWidth=8;strokeColor=#000033;fillColor=#000033;" edge="1" parent="1">
@@ -199,7 +199,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="fw4PKMHl68gUZvkM_4rT-252" value="2.4 &#xa;Group Event Logs" style="whiteSpace=wrap;rounded=1;fillColor=#000033;strokeColor=#000033;shadow=1;fontColor=#FFFFFF;" vertex="1" parent="1">
+        <mxCell id="fw4PKMHl68gUZvkM_4rT-252" value="2.4 &#xa;Group Event Logs&#xa;.33 KLOC" style="whiteSpace=wrap;rounded=1;fillColor=#000033;strokeColor=#000033;shadow=1;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="410" y="396.0000000000001" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fw4PKMHl68gUZvkM_4rT-253" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;rounded=0;fontColor=#000000;endArrow=none;endFill=0;strokeWidth=8;strokeColor=#000033;fillColor=#000033;" edge="1" parent="1" source="fw4PKMHl68gUZvkM_4rT-252">
@@ -211,7 +211,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="fw4PKMHl68gUZvkM_4rT-254" value="2.5 Challenge Logs" style="whiteSpace=wrap;rounded=1;fillColor=#000033;strokeColor=#000033;shadow=1;fontColor=#FFFFFF;" vertex="1" parent="1">
+        <mxCell id="fw4PKMHl68gUZvkM_4rT-254" value="2.5 Challenge Logs&#xa;.33 KLOC" style="whiteSpace=wrap;rounded=1;fillColor=#000033;strokeColor=#000033;shadow=1;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="410" y="473.0000000000001" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fw4PKMHl68gUZvkM_4rT-255" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;rounded=0;fontColor=#000000;endArrow=none;endFill=0;strokeWidth=8;strokeColor=#000033;fillColor=#000033;" edge="1" parent="1" source="fw4PKMHl68gUZvkM_4rT-254">
@@ -223,7 +223,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="fw4PKMHl68gUZvkM_4rT-256" value="2.6 Progress Logs" style="whiteSpace=wrap;rounded=1;fillColor=#000033;strokeColor=#000033;shadow=1;fontColor=#FFFFFF;" vertex="1" parent="1">
+        <mxCell id="fw4PKMHl68gUZvkM_4rT-256" value="2.6 Progress Logs&#xa;.33 KLOC" style="whiteSpace=wrap;rounded=1;fillColor=#000033;strokeColor=#000033;shadow=1;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="410" y="553.0000000000001" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fw4PKMHl68gUZvkM_4rT-257" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;rounded=0;fontColor=#000000;endArrow=none;endFill=0;strokeWidth=8;strokeColor=#000033;fillColor=#000033;" edge="1" parent="1" source="fw4PKMHl68gUZvkM_4rT-256">
@@ -235,10 +235,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="fw4PKMHl68gUZvkM_4rT-258" value="2.7 Sponsor Logs" style="whiteSpace=wrap;rounded=1;fillColor=#000033;strokeColor=#000033;shadow=1;fontColor=#FFFFFF;" vertex="1" parent="1">
+        <mxCell id="fw4PKMHl68gUZvkM_4rT-258" value="2.7 Sponsor Logs&#xa;.33 KLOC" style="whiteSpace=wrap;rounded=1;fillColor=#000033;strokeColor=#000033;shadow=1;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="410" y="633.0000000000001" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="fw4PKMHl68gUZvkM_4rT-259" value="2.1 Groups Database" style="whiteSpace=wrap;rounded=1;fillColor=#000033;strokeColor=#000033;shadow=1;fontColor=#FFFFFF;" vertex="1" parent="1">
+        <mxCell id="fw4PKMHl68gUZvkM_4rT-259" value="2.1 Groups Database&#xa;1 KLOC" style="whiteSpace=wrap;rounded=1;fillColor=#000033;strokeColor=#000033;shadow=1;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="410" y="146.0000000000001" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fw4PKMHl68gUZvkM_4rT-260" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;rounded=0;fontColor=#000000;endArrow=none;endFill=0;strokeWidth=8;strokeColor=#000033;fillColor=#000033;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="4" target="2">
@@ -247,7 +247,7 @@
             <mxPoint x="720" y="200" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fw4PKMHl68gUZvkM_4rT-308" value="1.7 User Profile / Rewards received" style="whiteSpace=wrap;rounded=1;fillColor=#000033;strokeColor=#000033;shadow=1;fontColor=#FFFFFF;" vertex="1" parent="1">
+        <mxCell id="fw4PKMHl68gUZvkM_4rT-308" value="1.7 User Profile / Rewards received&#xa;1 KLOC" style="whiteSpace=wrap;rounded=1;fillColor=#000033;strokeColor=#000033;shadow=1;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="140" y="623.0000000000001" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fw4PKMHl68gUZvkM_4rT-311" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;rounded=0;fontColor=#000000;endArrow=none;endFill=0;strokeWidth=8;strokeColor=#000033;fillColor=#000033;" edge="1" parent="1">
@@ -277,7 +277,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="fw4PKMHl68gUZvkM_4rT-346" value="3.2 Tracking Group Membership" style="whiteSpace=wrap;rounded=1;fillColor=#000033;strokeColor=#000033;shadow=1;fontColor=#FFFFFF;" vertex="1" parent="1">
+        <mxCell id="fw4PKMHl68gUZvkM_4rT-346" value="3.2 Tracking Group Membership&#xa;1 KLOC" style="whiteSpace=wrap;rounded=1;fillColor=#000033;strokeColor=#000033;shadow=1;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="675" y="226" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fw4PKMHl68gUZvkM_4rT-347" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;rounded=0;fontColor=#000000;endArrow=none;endFill=0;strokeWidth=8;strokeColor=#000033;fillColor=#000033;" edge="1" parent="1" source="fw4PKMHl68gUZvkM_4rT-346">
@@ -289,7 +289,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="fw4PKMHl68gUZvkM_4rT-348" value="3.3 Tracking Event Data" style="whiteSpace=wrap;rounded=1;fillColor=#000033;strokeColor=#000033;shadow=1;fontColor=#FFFFFF;" vertex="1" parent="1">
+        <mxCell id="fw4PKMHl68gUZvkM_4rT-348" value="3.3 Tracking Event Data&#xa;1 KLOC" style="whiteSpace=wrap;rounded=1;fillColor=#000033;strokeColor=#000033;shadow=1;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="675" y="309.0000000000001" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fw4PKMHl68gUZvkM_4rT-349" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;rounded=0;fontColor=#000000;endArrow=none;endFill=0;strokeWidth=8;strokeColor=#000033;fillColor=#000033;" edge="1" parent="1" source="fw4PKMHl68gUZvkM_4rT-348">
@@ -301,10 +301,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="fw4PKMHl68gUZvkM_4rT-350" value="3.4 Tracking Sponsorships" style="whiteSpace=wrap;rounded=1;fillColor=#000033;strokeColor=#000033;shadow=1;fontColor=#FFFFFF;" vertex="1" parent="1">
+        <mxCell id="fw4PKMHl68gUZvkM_4rT-350" value="3.4 Tracking Sponsorships&#xa;1 KLOC" style="whiteSpace=wrap;rounded=1;fillColor=#000033;strokeColor=#000033;shadow=1;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="675" y="386.0000000000001" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="fw4PKMHl68gUZvkM_4rT-354" value="3.1 Tracking Challenge Progress" style="whiteSpace=wrap;rounded=1;fillColor=#000033;strokeColor=#000033;shadow=1;fontColor=#FFFFFF;" vertex="1" parent="1">
+        <mxCell id="fw4PKMHl68gUZvkM_4rT-354" value="3.1 Tracking Challenge Progress&#xa;1 KLOC" style="whiteSpace=wrap;rounded=1;fillColor=#000033;strokeColor=#000033;shadow=1;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="675" y="146.0000000000001" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fw4PKMHl68gUZvkM_4rT-355" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;rounded=0;fontColor=#000000;endArrow=none;endFill=0;strokeWidth=8;strokeColor=#000033;fillColor=#000033;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="fw4PKMHl68gUZvkM_4rT-343" target="fw4PKMHl68gUZvkM_4rT-360">
@@ -325,7 +325,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="fw4PKMHl68gUZvkM_4rT-357" value="2.8 Rewards Logs" style="whiteSpace=wrap;rounded=1;fillColor=#000033;strokeColor=#000033;shadow=1;fontColor=#FFFFFF;" vertex="1" parent="1">
+        <mxCell id="fw4PKMHl68gUZvkM_4rT-357" value="2.8 Rewards Logs&#xa;.33 KLOC" style="whiteSpace=wrap;rounded=1;fillColor=#000033;strokeColor=#000033;shadow=1;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="410" y="713.0000000000001" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fw4PKMHl68gUZvkM_4rT-358" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;rounded=0;fontColor=#000000;endArrow=none;endFill=0;strokeWidth=8;strokeColor=#000033;fillColor=#000033;" edge="1" parent="1">
@@ -337,7 +337,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="fw4PKMHl68gUZvkM_4rT-359" value="2.3 Group Membership Logs" style="whiteSpace=wrap;rounded=1;fillColor=#000033;strokeColor=#000033;shadow=1;fontColor=#FFFFFF;" vertex="1" parent="1">
+        <mxCell id="fw4PKMHl68gUZvkM_4rT-359" value="2.3 Group Membership Logs&#xa;.33 KLOC" style="whiteSpace=wrap;rounded=1;fillColor=#000033;strokeColor=#000033;shadow=1;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="410" y="309" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fw4PKMHl68gUZvkM_4rT-360" value="Cloud-Hosted&#xa;Microsoft Azure" style="whiteSpace=wrap;rounded=1;fillColor=#000033;strokeColor=#000033;shadow=1;fontColor=#FFFFFF;fontStyle=1;fontSize=14" vertex="1" parent="1">
